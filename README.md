@@ -1,9 +1,9 @@
-# Assignment Description
+# Football Simulation for Head Games Day
 
-written by 
+written by Tavi G '23 
 
 edit with appropriate link:
 
-[![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Ambassador-Day-Game-VGE)](https://repl.it/github/athenian-ct-projects/Ambassador-Day-Game-VGE)
+[![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Head-Games-Day-TG)](https://repl.it/github/athenian-ct-projects/Head-Games-Day-TG)
 
-Add info about game here
+
