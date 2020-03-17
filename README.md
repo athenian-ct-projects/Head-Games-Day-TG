@@ -2,8 +2,6 @@
 
 written by Tavi G '23 
 
-edit with appropriate link:
-
 [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Head-Games-Day-TG)](https://repl.it/github/athenian-ct-projects/Head-Games-Day-TG)
 
 
